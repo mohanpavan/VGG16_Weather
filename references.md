@@ -9,3 +9,6 @@ Keras documentation to inbuilt Models (VGG16, ResNet, MobileNet,...)
 </br>
 Building powerful image-classification models using very little data
 [link](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
+</br>
+WeatherNet paper
+[link](https://arxiv.org/ftp/arxiv/papers/1910/1910.09910.pdf)
