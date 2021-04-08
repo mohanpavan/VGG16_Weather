@@ -1,13 +1,11 @@
 # VGG16_Weather
 VGG16_Keras for image classification of weather conditions using camera images.
 
-| class |value |
-|----|---|
-| clear | 1 |
-| sun | 2 |
-| rain | 3 |
-| fog | 4 |
-| snow | 5 |
+classes 
+* clear
+* rain
+* fog
+* snow
 
 __Installtion__
     
