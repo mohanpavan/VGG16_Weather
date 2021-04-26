@@ -15,7 +15,7 @@ __Installtion__
     ```
 2. install python virtual environnment package
     ```
-    pip install virtualenv
+    python -m pip install virtualenv
     ```
 3. navigate to current git repo path
     ```
@@ -23,7 +23,7 @@ __Installtion__
     ```
 4. create python virtual environment
     ```
-    virtual venv
+    python -m virtualenv venv
     ```
 5. activate python virtual environment
     ```
@@ -31,7 +31,7 @@ __Installtion__
     ```
 6. install required python packages to run code
     ```
-    pip install -r requirements.txt
+    python -m pip install -r requirements.txt
     ```
 7. run juypterlab and open WeatherVGG16.ipynb
     ```
